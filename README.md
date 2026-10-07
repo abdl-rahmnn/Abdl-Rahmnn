@@ -15,6 +15,20 @@
 </div>
 
 ---
+```console
+abdul@github:~$ whoami
+Mohammed Abdul Rahman · Senior Software Engineer
+
+abdul@github:~$ uptime
+up 8+ years · M.Tech in Computer Science
+
+abdul@github:~$ cat ~/.motivation
+I love building products — and the problems that don't fit
+on a single whiteboard. The more moving parts, the better.
+
+abdul@github:~$ ls ~/worlds-explored/
+fintech/  edtech/  healthtech/  ai/  saas/  ...and 10+ products along the way
+```
 
 ```go
 package main
